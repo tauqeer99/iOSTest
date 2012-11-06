@@ -9,5 +9,5 @@
 #import <SenTestingKit/SenTestingKit.h>
 
 @interface Sample2Tests : SenTestCase
-
+//I haz controlzzz! hahaz! kha!
 @end
